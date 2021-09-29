@@ -1,0 +1,224 @@
+05-01-2017 @ 09:41:33 - Creating Instamojo Order for order id: 662
+05-01-2017 @ 09:41:33 - Client ID: RqBlM8jQcsXDbqsXJI15AhC2enOZJy6bZ49zocbg | Client Secret: JdT7jKKc27hUPULOOka8Zf7cMPsxEpYY4SHnzFBwmqgUfgmVAKVcl8UXrQUS63iVjr80hGavqCLYPzuG01uTLhCmpsoJU37Q34aSu5Iaa7xSPTU9Z8hzN0khX9yD67ow  | Testmode:  
+05-01-2017 @ 09:41:34 - Data sent for creating order Array
+(
+    [name] => khjvg hhhgd
+    [email] => bjcj@nnjvv.kbvh
+    [phone] => 1234567890
+    [amount] => 5000
+    [currency] => INR
+    [redirect_url] => http://jlum.org
+    [transaction_id] => 1493611894-662
+)
+
+05-01-2017 @ 09:42:24 - Creating Instamojo Order for order id: 663
+05-01-2017 @ 09:42:24 - Client ID: RqBlM8jQcsXDbqsXJI15AhC2enOZJy6bZ49zocbg | Client Secret: JdT7jKKc27hUPULOOka8Zf7cMPsxEpYY4SHnzFBwmqgUfgmVAKVcl8UXrQUS63iVjr80hGavqCLYPzuG01uTLhCmpsoJU37Q34aSu5Iaa7xSPTU9Z8hzN0khX9yD67ow  | Testmode:  
+05-01-2017 @ 09:42:43 - Data sent for creating order Array
+(
+    [name] => khjvg hhhgd
+    [email] => bjcj@nnjvv.kbvh
+    [phone] => 534316
+    [amount] => 5000
+    [currency] => INR
+    [redirect_url] => http://jlum.org
+    [transaction_id] => 1493611963-663
+)
+
+05-01-2017 @ 09:43:16 - Creating Instamojo Order for order id: 664
+05-01-2017 @ 09:43:31 - Client ID: RqBlM8jQcsXDbqsXJI15AhC2enOZJy6bZ49zocbg | Client Secret: JdT7jKKc27hUPULOOka8Zf7cMPsxEpYY4SHnzFBwmqgUfgmVAKVcl8UXrQUS63iVjr80hGavqCLYPzuG01uTLhCmpsoJU37Q34aSu5Iaa7xSPTU9Z8hzN0khX9yD67ow  | Testmode:  
+05-01-2017 @ 09:43:31 - Data sent for creating order Array
+(
+    [name] => khjvg hhhgd
+    [email] => bjcj@nnjvv.kbvh
+    [phone] => 534316
+    [amount] => 5000
+    [currency] => INR
+    [redirect_url] => http://jlum.org
+    [transaction_id] => 1493612011-664
+)
+
+05-01-2017 @ 09:43:31 - Validation Exception Occured with response stdClass Object
+(
+    [phone] => Array
+        (
+            [0] => This is not a valid phone number.
+        )
+
+)
+
+05-01-2017 @ 10:36:57 - Creating Instamojo Order for order id: 664
+05-01-2017 @ 10:36:57 - Client ID: RqBlM8jQcsXDbqsXJI15AhC2enOZJy6bZ49zocbg | Client Secret: JdT7jKKc27hUPULOOka8Zf7cMPsxEpYY4SHnzFBwmqgUfgmVAKVcl8UXrQUS63iVjr80hGavqCLYPzuG01uTLhCmpsoJU37Q34aSu5Iaa7xSPTU9Z8hzN0khX9yD67ow  | Testmode:  
+05-01-2017 @ 10:36:57 - Data sent for creating order Array
+(
+    [name] => khjvg hhhgd
+    [email] => bjcj@nnjvv.kbvh
+    [phone] => 534316
+    [amount] => 5000
+    [currency] => INR
+    [redirect_url] => http://jlum.org
+    [transaction_id] => 1493615217-664
+)
+
+05-01-2017 @ 10:36:58 - Validation Exception Occured with response stdClass Object
+(
+    [phone] => Array
+        (
+            [0] => This is not a valid phone number.
+        )
+
+)
+
+05-01-2017 @ 10:38:34 - Creating Instamojo Order for order id: 664
+05-01-2017 @ 10:38:34 - Client ID: RqBlM8jQcsXDbqsXJI15AhC2enOZJy6bZ49zocbg | Client Secret: JdT7jKKc27hUPULOOka8Zf7cMPsxEpYY4SHnzFBwmqgUfgmVAKVcl8UXrQUS63iVjr80hGavqCLYPzuG01uTLhCmpsoJU37Q34aSu5Iaa7xSPTU9Z8hzN0khX9yD67ow  | Testmode:  
+05-01-2017 @ 10:38:34 - Data sent for creating order Array
+(
+    [name] => khjvg hhhgd
+    [email] => bjcj@nnjvv.kbvh
+    [phone] => 123456789
+    [amount] => 5000
+    [currency] => INR
+    [redirect_url] => http://jlum.org
+    [transaction_id] => 1493615314-664
+)
+
+05-01-2017 @ 10:38:34 - Validation Exception Occured with response stdClass Object
+(
+    [phone] => Array
+        (
+            [0] => This is not a valid phone number.
+        )
+
+)
+
+05-01-2017 @ 10:38:43 - Creating Instamojo Order for order id: 664
+05-01-2017 @ 10:38:43 - Client ID: RqBlM8jQcsXDbqsXJI15AhC2enOZJy6bZ49zocbg | Client Secret: JdT7jKKc27hUPULOOka8Zf7cMPsxEpYY4SHnzFBwmqgUfgmVAKVcl8UXrQUS63iVjr80hGavqCLYPzuG01uTLhCmpsoJU37Q34aSu5Iaa7xSPTU9Z8hzN0khX9yD67ow  | Testmode:  
+05-01-2017 @ 10:38:43 - Data sent for creating order Array
+(
+    [name] => khjvg hhhgd
+    [email] => bjcj@nnjvv.kbvh
+    [phone] => 123456789
+    [amount] => 5000
+    [currency] => INR
+    [redirect_url] => http://jlum.org
+    [transaction_id] => 1493615323-664
+)
+
+05-01-2017 @ 10:38:44 - Validation Exception Occured with response stdClass Object
+(
+    [phone] => Array
+        (
+            [0] => This is not a valid phone number.
+        )
+
+)
+
+05-01-2017 @ 10:39:01 - Creating Instamojo Order for order id: 664
+05-01-2017 @ 10:39:01 - Client ID: RqBlM8jQcsXDbqsXJI15AhC2enOZJy6bZ49zocbg | Client Secret: JdT7jKKc27hUPULOOka8Zf7cMPsxEpYY4SHnzFBwmqgUfgmVAKVcl8UXrQUS63iVjr80hGavqCLYPzuG01uTLhCmpsoJU37Q34aSu5Iaa7xSPTU9Z8hzN0khX9yD67ow  | Testmode:  
+05-01-2017 @ 10:39:01 - Data sent for creating order Array
+(
+    [name] => khjvg hhhgd
+    [email] => bjcj@nnjvv.kbvh
+    [phone] => 9640405005
+    [amount] => 5000
+    [currency] => INR
+    [redirect_url] => http://jlum.org
+    [transaction_id] => 1493615341-664
+)
+
+05-01-2017 @ 10:39:02 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => 0a543039527645e98c2363a15af1f3cb
+            [transaction_id] => 1493615341-664
+            [status] => pending
+            [currency] => INR
+            [amount] => 5000.00
+            [name] => khjvg hhhgd
+            [email] => bjcj@nnjvv.kbvh
+            [phone] => +919640405005
+            [description] => Instapay
+            [redirect_url] => http://jlum.org
+            [webhook_url] => 
+            [created_at] => 2017-05-01T05:09:04.888908Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:0a543039527645e98c2363a15af1f3cb/
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@JLUM/0a543039527645e98c2363a15af1f3cb?embed=form
+        )
+
+)
+
+05-01-2017 @ 12:01:16 - Creating Instamojo Order for order id: 665
+05-01-2017 @ 12:01:16 - Client ID: RqBlM8jQcsXDbqsXJI15AhC2enOZJy6bZ49zocbg | Client Secret: JdT7jKKc27hUPULOOka8Zf7cMPsxEpYY4SHnzFBwmqgUfgmVAKVcl8UXrQUS63iVjr80hGavqCLYPzuG01uTLhCmpsoJU37Q34aSu5Iaa7xSPTU9Z8hzN0khX9yD67ow  | Testmode:  
+05-01-2017 @ 12:01:17 - Data sent for creating order Array
+(
+    [name] => Vijay Rama rao
+    [email] => vijay.jlum@gmail.com
+    [phone] => 9032670949
+    [amount] => 100
+    [currency] => INR
+    [redirect_url] => http://jlum.org
+    [transaction_id] => 1493620277-665
+)
+
+05-01-2017 @ 12:01:17 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => 0931d21ab9e94c399715bed6e61ccd04
+            [transaction_id] => 1493620277-665
+            [status] => pending
+            [currency] => INR
+            [amount] => 100.00
+            [name] => Vijay Rama rao
+            [email] => vijay.jlum@gmail.com
+            [phone] => +919032670949
+            [description] => Instapay
+            [redirect_url] => http://jlum.org
+            [webhook_url] => 
+            [created_at] => 2017-05-01T06:31:20.130138Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:0931d21ab9e94c399715bed6e61ccd04/
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@JLUM/0931d21ab9e94c399715bed6e61ccd04?embed=form
+        )
+
+)
+
+05-01-2017 @ 12:04:08 - Callback Called with payment ID: MOJO7501005A96450539 and payment req id: 0931d21ab9e94c399715bed6e61ccd04
+05-01-2017 @ 12:04:08 - Client ID: RqBlM8jQcsXDbqsXJI15AhC2enOZJy6bZ49zocbg | Client Secret: JdT7jKKc27hUPULOOka8Zf7cMPsxEpYY4SHnzFBwmqgUfgmVAKVcl8UXrQUS63iVjr80hGavqCLYPzuG01uTLhCmpsoJU37Q34aSu5Iaa7xSPTU9Z8hzN0khX9yD67ow  | Testmode:  
+05-01-2017 @ 12:04:09 - Response from server: stdClass Object
+(
+    [id] => 0931d21ab9e94c399715bed6e61ccd04
+    [transaction_id] => 1493620277-665
+    [status] => completed
+    [currency] => INR
+    [amount] => 100.00
+    [name] => Vijay Rama rao
+    [email] => vijay.jlum@gmail.com
+    [phone] => +919032670949
+    [description] => Instapay
+    [redirect_url] => http://jlum.org
+    [webhook_url] => 
+    [payments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => MOJO7501005A96450539
+                    [status] => successful
+                )
+
+        )
+
+    [created_at] => 2017-05-01T06:31:20.130138Z
+    [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:0931d21ab9e94c399715bed6e61ccd04/
+)
+
+05-01-2017 @ 12:04:09 - Payment status for MOJO7501005A96450539 is successful
+05-01-2017 @ 12:04:09 - Extracted order id from trasaction_id: 665
+05-01-2017 @ 12:04:09 - Payment for MOJO7501005A96450539 was credited.

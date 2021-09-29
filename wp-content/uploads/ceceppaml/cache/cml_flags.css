@@ -1,0 +1,32 @@
+.cml-flag-tiny-en:before {
+    content: url(../flags/tiny/en_IN.png);
+    width: 16px;
+    height: 11px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.cml-flag-tiny-tl:before {
+    content: url(../flags/tiny/en_IN.png);
+    width: 16px;
+    height: 11px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.cml-flag-small-en:before {
+    content: url(../flags/small/en_IN.png);
+    width: 32px;
+    height: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.cml-flag-small-tl:before {
+    content: url(../flags/small/en_IN.png);
+    width: 32px;
+    height: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}

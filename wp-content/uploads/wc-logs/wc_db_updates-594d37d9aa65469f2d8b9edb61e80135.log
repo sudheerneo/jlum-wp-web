@@ -1,0 +1,32 @@
+2017-05-06T14:30:34+00:00 INFO Queuing 3.0.0 - wc_update_300_webhooks
+2017-05-06T14:30:34+00:00 INFO Queuing 3.0.0 - wc_update_300_grouped_products
+2017-05-06T14:30:34+00:00 INFO Queuing 3.0.0 - wc_update_300_settings
+2017-05-06T14:30:34+00:00 INFO Queuing 3.0.0 - wc_update_300_product_visibility
+2017-05-06T14:30:34+00:00 INFO Queuing 3.0.0 - wc_update_300_db_version
+2017-05-06T14:30:35+00:00 INFO Running wc_update_300_webhooks callback
+2017-05-06T14:30:35+00:00 INFO Finished wc_update_300_webhooks callback
+2017-05-06T14:30:35+00:00 INFO Running wc_update_300_grouped_products callback
+2017-05-06T14:30:35+00:00 INFO Finished wc_update_300_grouped_products callback
+2017-05-06T14:30:35+00:00 INFO Running wc_update_300_settings callback
+2017-05-06T14:30:35+00:00 INFO Finished wc_update_300_settings callback
+2017-05-06T14:30:35+00:00 INFO Running wc_update_300_product_visibility callback
+2017-05-06T14:30:35+00:00 INFO Finished wc_update_300_product_visibility callback
+2017-05-06T14:30:35+00:00 INFO Running wc_update_300_db_version callback
+2017-05-06T14:30:35+00:00 INFO Finished wc_update_300_db_version callback
+2017-05-06T14:30:35+00:00 INFO Data update complete
+2018-08-15T22:59:45+00:00 INFO Queuing 3.0.0 - wc_update_300_webhooks
+2018-08-15T22:59:45+00:00 INFO Queuing 3.0.0 - wc_update_300_grouped_products
+2018-08-15T22:59:45+00:00 INFO Queuing 3.0.0 - wc_update_300_settings
+2018-08-15T22:59:45+00:00 INFO Queuing 3.0.0 - wc_update_300_product_visibility
+2018-08-15T22:59:45+00:00 INFO Queuing 3.0.0 - wc_update_300_db_version
+2018-08-15T22:59:46+00:00 INFO Running wc_update_300_webhooks callback
+2018-08-15T22:59:46+00:00 INFO Finished wc_update_300_webhooks callback
+2018-08-15T22:59:46+00:00 INFO Running wc_update_300_grouped_products callback
+2018-08-15T22:59:46+00:00 INFO Finished wc_update_300_grouped_products callback
+2018-08-15T22:59:46+00:00 INFO Running wc_update_300_settings callback
+2018-08-15T22:59:46+00:00 INFO Finished wc_update_300_settings callback
+2018-08-15T22:59:46+00:00 INFO Running wc_update_300_product_visibility callback
+2018-08-15T22:59:46+00:00 INFO Finished wc_update_300_product_visibility callback
+2018-08-15T22:59:46+00:00 INFO Running wc_update_300_db_version callback
+2018-08-15T22:59:46+00:00 INFO Finished wc_update_300_db_version callback
+2018-08-15T22:59:46+00:00 INFO Data update complete

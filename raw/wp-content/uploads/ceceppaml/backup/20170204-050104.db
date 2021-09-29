@@ -1,0 +1,92 @@
+/**CML: DB**/
+/*---------------------------------------------------------------
+  SQL DB BACKUP 04.02.2017 05:01 
+  ---------------------------------------------------------------*/
+
+/*---------------------------------------------------------------
+  TABLE: `wp_ceceppa_ml`
+  ---------------------------------------------------------------*/
+DROP TABLE IF EXISTS `wp_ceceppa_ml`;
+CREATE TABLE `wp_ceceppa_ml` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `cml_default` int(1) DEFAULT NULL,
+  `cml_flag` varchar(100) DEFAULT NULL,
+  `cml_language` text CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `cml_language_slug` text,
+  `cml_locale` text,
+  `cml_enabled` int(11) DEFAULT NULL,
+  `cml_sort_id` int(11) DEFAULT NULL,
+  `cml_custom_flag` int(11) DEFAULT NULL,
+  `cml_rtl` int(11) DEFAULT NULL,
+  `cml_date_format` text,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+INSERT INTO `wp_ceceppa_ml`  VALUES   ('1','0','en_IN','English','en','en_IN','1','0','0','0','F j, Y');
+INSERT INTO `wp_ceceppa_ml`  VALUES ('2','0','en_IN','Telugu','tl','tl_IN','1','1','0','0','F j, Y');
+
+/*---------------------------------------------------------------
+  TABLE: `wp_ceceppa_ml_cats`
+  ---------------------------------------------------------------*/
+DROP TABLE IF EXISTS `wp_ceceppa_ml_cats`;
+CREATE TABLE `wp_ceceppa_ml_cats` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `cml_cat_id` int(11) NOT NULL,
+  `cml_cat_name` varchar(1000) NOT NULL,
+  `cml_cat_lang_id` int(11) NOT NULL,
+  `cml_cat_translation` varchar(1000) DEFAULT NULL,
+  `cml_cat_translation_slug` varchar(1000) DEFAULT NULL,
+  `cml_taxonomy` varchar(1000) DEFAULT NULL,
+  `cml_cat_description` longtext,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+/*---------------------------------------------------------------
+  TABLE: `wp_ceceppa_ml_posts`
+  ---------------------------------------------------------------*/
+DROP TABLE IF EXISTS `wp_ceceppa_ml_posts`;
+
+/*---------------------------------------------------------------
+  TABLE: `wp_ceceppa_ml_relations`
+  ---------------------------------------------------------------*/
+DROP TABLE IF EXISTS `wp_ceceppa_ml_relations`;
+CREATE TABLE `wp_ceceppa_ml_relations` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `lang_1` bigint(20) NOT NULL DEFAULT '0',
+  `lang_2` bigint(20) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=36 DEFAULT CHARSET=latin1;
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES   ('1','551','551');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('2','532','532');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('3','530','530');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('4','447','447');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('5','448','448');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('6','449','449');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('7','450','450');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('8','451','451');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('9','453','453');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('10','455','455');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('11','457','457');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('12','459','459');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('13','461','461');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('14','463','463');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('15','465','465');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('16','466','466');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('17','407','407');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('18','383','383');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('19','350','350');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('20','333','333');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('21','331','331');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('22','197','197');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('23','162','162');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('24','153','153');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('25','142','142');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('26','115','115');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('27','36','36');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('28','32','32');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('29','33','33');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('30','34','34');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('31','35','35');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('32','30','30');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('33','5','5');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('34','1','1');
+INSERT INTO `wp_ceceppa_ml_relations`  VALUES ('35','2','2');
